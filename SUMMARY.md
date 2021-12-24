@@ -1,15 +1,7 @@
 # Summary
 
-* [carlos个人博客](README.md)
-* [Chapter1](chapter1/README.md)
-
-  * [Section1.1](chapter1/section1.1.md)
-  * [Section1.2](chapter1/section1.2.md)
-  * [Section1.3](chapter1/section1.3.md)
-
-* chapter2
-
-* chaper3
-
-
+* [carlos 个人博客](README.md)
+* [个人总结](chapter1/README.md)
+    * [js常用方法](chapter1/section1.1.md)
+    * [常用快捷键](chapter1/section1.2.md)
 
